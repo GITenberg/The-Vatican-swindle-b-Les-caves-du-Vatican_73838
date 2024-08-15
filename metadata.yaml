@@ -5,6 +5,9 @@ contributor:
     agent_name: Bussy, Dorothy
     gutenberg_agent_id: '57242'
     url: http://www.gutenberg.org/2009/agents/57242
+covers:
+- cover_type: archival
+  image_path: 73838-h/images/cover.jpg
 creator:
   author:
     agent_name: Gide, André
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Andr%C3%A9_Gide
     - https://fr.wikipedia.org/wiki/Andr%C3%A9_Gide
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73838#The-Vatican-swindle-b-Les-caves-du-Vatican
 gutenberg_issued: '2024-06-16'
 gutenberg_type: Text
 identifiers:
